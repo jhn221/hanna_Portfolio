@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hanna_Portfolio/static/css/main.00199f68.css",
-    "main.js": "/hanna_Portfolio/static/js/main.0108e8b9.js",
+    "main.css": "/hanna_Portfolio/static/css/main.8d90f988.css",
+    "main.js": "/hanna_Portfolio/static/js/main.d7795b8e.js",
     "static/js/787.1ed0c42c.chunk.js": "/hanna_Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/NanumGothic-Regular.ttf": "/hanna_Portfolio/static/media/NanumGothic-Regular.6c84540de7730f833d6c.ttf",
     "static/media/styledComponent.png": "/hanna_Portfolio/static/media/styledComponent.0fefccb0a398bba44766.png",
@@ -13,12 +13,12 @@
     "static/media/redux.jpeg": "/hanna_Portfolio/static/media/redux.236050024628dd4182f5.jpeg",
     "static/media/HTML&CSS.png": "/hanna_Portfolio/static/media/HTML&CSS.fdd549b973755aa0351e.png",
     "index.html": "/hanna_Portfolio/index.html",
-    "main.00199f68.css.map": "/hanna_Portfolio/static/css/main.00199f68.css.map",
-    "main.0108e8b9.js.map": "/hanna_Portfolio/static/js/main.0108e8b9.js.map",
+    "main.8d90f988.css.map": "/hanna_Portfolio/static/css/main.8d90f988.css.map",
+    "main.d7795b8e.js.map": "/hanna_Portfolio/static/js/main.d7795b8e.js.map",
     "787.1ed0c42c.chunk.js.map": "/hanna_Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00199f68.css",
-    "static/js/main.0108e8b9.js"
+    "static/css/main.8d90f988.css",
+    "static/js/main.d7795b8e.js"
   ]
 }
